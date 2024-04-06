@@ -265,8 +265,8 @@
         "id": 27,
         "industry": "Fashion & Retail",
         "name": "Dieter Schwarz",
-        "networth": "$42.9 B",
-        "rank": 27,
+        "networth": "$38 B",
+        "rank": 37,
         "source": "Retail"
     },
     {
@@ -285,8 +285,8 @@
         "id": 29,
         "industry": "Logistics",
         "name": "Klaus-Michael Kuehne",
-        "networth": "$39.1 B",
-        "rank": 29,
+        "networth": "$39.2 B",
+        "rank": 32,
         "source": "Shipping"
     },
     {
@@ -305,8 +305,8 @@
         "id": 31,
         "industry": "Food & Beverage",
         "name": "Jacqueline Mars",
-        "networth": "$38.3 B",
-        "rank": 31,
+        "networth": "$38.5 B",
+        "rank": 35,
         "source": "Candy, pet food"
     },
     {
@@ -315,8 +315,8 @@
         "id": 32,
         "industry": "Food & Beverage",
         "name": "John Mars",
-        "networth": "$38.3 B",
-        "rank": 31,
+        "networth": "$38.5 B",
+        "rank": 35,
         "source": "Candy, pet food"
     },
     {
@@ -325,8 +325,8 @@
         "id": 33,
         "industry": "Diversified",
         "name": "Li Ka-shing",
-        "networth": "$38 B",
-        "rank": 33,
+        "networth": "$37.3 B",
+        "rank": 38,
         "source": "Diversified"
     },
     {
@@ -365,8 +365,8 @@
         "id": 37,
         "industry": "Food & Beverage",
         "name": "Mark Mateschitz",
-        "networth": "$34.7 B",
-        "rank": 37,
+        "networth": "$39.6 B",
+        "rank": 31,
         "source": "Red Bull"
     },
     {
@@ -405,8 +405,8 @@
         "id": 41,
         "industry": "Fashion & Retail",
         "name": "Alain Wertheimer",
-        "networth": "$31.6 B",
-        "rank": 41,
+        "networth": "$36.8 B",
+        "rank": 40,
         "source": "Chanel"
     },
     {
@@ -415,8 +415,8 @@
         "id": 42,
         "industry": "Fashion & Retail",
         "name": "Gerard Wertheimer",
-        "networth": "$31.6 B",
-        "rank": 41,
+        "networth": "$36.8 B",
+        "rank": 40,
         "source": "Chanel"
     },
     {
@@ -445,8 +445,8 @@
         "id": 45,
         "industry": "Technology",
         "name": "Colin Zheng Huang",
-        "networth": "$30.2 B",
-        "rank": 45,
+        "networth": "$38.9 B",
+        "rank": 33,
         "source": "E-commerce"
     },
     {
@@ -495,8 +495,8 @@
         "id": 50,
         "industry": "Finance & Investments",
         "name": "Stephen Schwarzman",
-        "networth": "$27.8 B",
-        "rank": 50,
+        "networth": "$38.8 B",
+        "rank": 34,
         "source": "Investments"
     },
     {
@@ -545,8 +545,8 @@
         "id": 55,
         "industry": "Technology",
         "name": "Shiv Nadar",
-        "networth": "$25.6 B",
-        "rank": 55,
+        "networth": "$36.9 B",
+        "rank": 39,
         "source": "Software services"
     },
     {
