@@ -275,8 +275,8 @@
         "id": 28,
         "industry": "Fashion & Retail",
         "name": "François Pinault & family",
-        "networth": "$40.1 B",
-        "rank": 28,
+        "networth": "$31.6 B",
+        "rank": 54,
         "source": "Luxury goods"
     },
     {
@@ -335,8 +335,8 @@
         "id": 34,
         "industry": "Technology",
         "name": "Ma Huateng",
-        "networth": "$35.3 B",
-        "rank": 34,
+        "networth": "$30.2 B",
+        "rank": 57,
         "source": "Internet media"
     },
     {
@@ -345,8 +345,8 @@
         "id": 35,
         "industry": "Gambling & Casinos",
         "name": "Miriam Adelson & family",
-        "networth": "$35 B",
-        "rank": 35,
+        "networth": "$32 B",
+        "rank": 53,
         "source": "Casinos"
     },
     {
@@ -355,8 +355,8 @@
         "id": 36,
         "industry": "Finance & Investments",
         "name": "Ken Griffin",
-        "networth": "$35 B",
-        "rank": 35,
+        "networth": "$36.4 B",
+        "rank": 42,
         "source": "Hedge funds"
     },
     {
@@ -396,7 +396,7 @@
         "industry": "Diversified",
         "name": "Len Blavatnik",
         "networth": "$32.1 B",
-        "rank": 40,
+        "rank": 52,
         "source": "Music, chemicals"
     },
     {
@@ -425,8 +425,8 @@
         "id": 43,
         "industry": "Logistics",
         "name": "Gianluigi Aponte",
-        "networth": "$31.2 B",
-        "rank": 43,
+        "networth": "$33.1 B",
+        "rank": 48,
         "source": "Shipping"
     },
     {
@@ -435,8 +435,8 @@
         "id": 44,
         "industry": "Logistics",
         "name": "Rafaela Aponte-Diamant",
-        "networth": "$31.2 B",
-        "rank": 43,
+        "networth": "$33.1 B",
+        "rank": 48,
         "source": "Shipping"
     },
     {
@@ -455,8 +455,8 @@
         "id": 46,
         "industry": "Manufacturing",
         "name": "Reinhold Wuerth & family",
-        "networth": "$29.7 B",
-        "rank": 46,
+        "networth": "$33.6 B",
+        "rank": 45,
         "source": "Fasteners"
     },
     {
@@ -485,8 +485,8 @@
         "id": 49,
         "industry": "Finance & Investments",
         "name": "Jim Simons",
-        "networth": "$28.1 B",
-        "rank": 49,
+        "networth": "$31.4 B",
+        "rank": 55,
         "source": "Hedge funds"
     },
     {
@@ -515,8 +515,8 @@
         "id": 52,
         "industry": "Metals & Mining",
         "name": "Gina Rinehart",
-        "networth": "$27 B",
-        "rank": 52,
+        "networth": "$30.8 B",
+        "rank": 56,
         "source": "Mining"
     },
     {
@@ -525,8 +525,8 @@
         "id": 53,
         "industry": "Technology",
         "name": "William Lei Ding",
-        "networth": "$26.7 B",
-        "rank": 53,
+        "networth": "$33.5 B",
+        "rank": 46,
         "source": "Online games"
     },
     {
@@ -565,8 +565,8 @@
         "id": 57,
         "industry": "Finance & Investments",
         "name": "Thomas Peterffy",
-        "networth": "$25.3 B",
-        "rank": 57,
+        "networth": "$34 B",
+        "rank": 44,
         "source": "Discount brokerage"
     },
     {
@@ -595,8 +595,8 @@
         "id": 60,
         "industry": "Technology",
         "name": "MacKenzie Scott",
-        "networth": "$24.4 B",
-        "rank": 60,
+        "networth": "$35.6 B",
+        "rank": 43,
         "source": "Amazon"
     },
     {
@@ -685,8 +685,8 @@
         "id": 69,
         "industry": "Telecom",
         "name": "Masayoshi Son",
-        "networth": "$22.4 B",
-        "rank": 69,
+        "networth": "$32.7 B",
+        "rank": 51,
         "source": "Internet, telecom"
     },
     {
@@ -715,8 +715,8 @@
         "id": 72,
         "industry": "Finance & Investments",
         "name": "Abigail Johnson",
-        "networth": "$21.6 B",
-        "rank": 72,
+        "networth": "$29 B",
+        "rank": 58,
         "source": "Fidelity"
     },
     {
@@ -735,8 +735,8 @@
         "id": 74,
         "industry": "Fashion & Retail",
         "name": "Lukas Walton",
-        "networth": "$21.2 B",
-        "rank": 74,
+        "networth": "$28 B",
+        "rank": 60,
         "source": "Walmart"
     },
     {
@@ -795,8 +795,8 @@
         "id": 80,
         "industry": "Energy",
         "name": "Vagit Alekperov",
-        "networth": "$20.5 B",
-        "rank": 80,
+        "networth": "$28.6 B",
+        "rank": 59,
         "source": "Oil"
     },
     {
@@ -955,8 +955,8 @@
         "id": 96,
         "industry": "Metals & Mining",
         "name": "Savitri Jindal & family",
-        "networth": "$17.5 B",
-        "rank": 94,
+        "networth": "$33.5 B",
+        "rank": 46,
         "source": "Steel"
     },
     {
@@ -1685,8 +1685,8 @@
         "id": 169,
         "industry": "Finance & Investments",
         "name": "Changpeng Zhao",
-        "networth": "$10.5 B",
-        "rank": 167,
+        "networth": "$33 B",
+        "rank": 50,
         "source": "Cryptocurrency exchange"
     },
     {
@@ -1755,8 +1755,8 @@
         "id": 176,
         "industry": "Technology",
         "name": "Eduardo Saverin",
-        "networth": "$10.2 B",
-        "rank": 171,
+        "networth": "$28 B",
+        "rank": 60,
         "source": "Facebook"
     },
     {
