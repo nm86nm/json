@@ -666,7 +666,7 @@
         "industry": "Manufacturing",
         "name": "James Ratcliffe",
         "networth": "$22.9 B",
-        "rank": 67,
+        "rank": 111,
         "source": "Chemicals"
     },
     {
@@ -746,7 +746,7 @@
         "industry": "Service",
         "name": "Wang Wei",
         "networth": "$21.2 B",
-        "rank": 74,
+        "rank": 137,
         "source": "Package delivery"
     },
     {
@@ -765,8 +765,8 @@
         "id": 77,
         "industry": "Fashion & Retail",
         "name": "Leonard Lauder",
-        "networth": "$21 B",
-        "rank": 77,
+        "networth": "$15.1 B",
+        "rank": 126,
         "source": "Estee Lauder"
     },
     {
@@ -816,7 +816,7 @@
         "industry": "Metals & Mining",
         "name": "Andrew Forrest",
         "networth": "$19.6 B",
-        "rank": 82,
+        "rank": 101,
         "source": "Mining"
     },
     {
@@ -825,8 +825,8 @@
         "id": 83,
         "industry": "Finance & Investments",
         "name": "Ray Dalio",
-        "networth": "$19.1 B",
-        "rank": 83,
+        "networth": "$15.4 B",
+        "rank": 124,
         "source": "Hedge funds"
     },
     {
@@ -836,7 +836,7 @@
         "industry": "Automotive",
         "name": "Li Eric",
         "networth": "$19 B",
-        "rank": 84,
+        "rank": 109,
         "source": "Automobiles"
     },
     {
@@ -1998,5 +1998,35 @@
         "networth": "$9.6 B",
         "rank": 195,
         "source": "Candy, pet food"
+    },
+    {
+        "age": 79,
+        "country/territory": "Indonesia",
+        "id": 201,
+        "industry": "Diversified",
+        "name": "Prajogo Pangestu",
+        "networth": "$43.4 B",
+        "rank": 27,
+        "source": "Petrochemicals, energy"
+    },
+    {
+        "age": 53,
+        "country/territory": "Italy",
+        "id": 202,
+        "industry": "Finance & Investments",
+        "name": "Andrea Pignataro",
+        "networth": "$27.5 B",
+        "rank": 65,
+        "source": "Financial software"
+    },
+    {
+        "age": 81,
+        "country/territory": "United States",
+        "id": 203,
+        "industry": "Diversified",
+        "name": "Elaine Marshall & family",
+        "networth": "$24.5 B",
+        "rank": 81,
+        "source": "Koch Industries"
     }
 ]
