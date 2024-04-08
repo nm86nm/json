@@ -926,7 +926,7 @@
         "industry": "Metals & Mining",
         "name": "Lakshmi Mittal",
         "networth": "$17.7 B",
-        "rank": 93,
+        "rank": 113,
         "source": "Steel"
     },
     {
@@ -945,8 +945,8 @@
         "id": 95,
         "industry": "Finance & Investments",
         "name": "Carl Icahn",
-        "networth": "$17.5 B",
-        "rank": 94,
+        "networth": "$5.9 B",
+        "rank": 498,
         "source": "Investments"
     },
     {
@@ -975,8 +975,8 @@
         "id": 98,
         "industry": "Fashion & Retail",
         "name": "John Menard, Jr.",
-        "networth": "$25.2 B",
-        "rank": 79,
+        "networth": "$18 B",
+        "rank": 104,
         "source": "Home improvement stores"
     },
     {
@@ -2028,5 +2028,15 @@
         "networth": "$24.5 B",
         "rank": 81,
         "source": "Koch Industries"
+    },
+    {
+        "age": 92,
+        "country/territory": "India",
+        "id": 204,
+        "industry": "Real Estate",
+        "name": "Kushal Pal Singh",
+        "networth": "$20.9 B",
+        "rank": 92,
+        "source": "Real estate"
     }
 ]
