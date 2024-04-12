@@ -2038,5 +2038,15 @@
         "networth": "$20.9 B",
         "rank": 92,
         "source": "Real estate"
+    },
+    {
+        "age": 68,
+        "country/territory": "United States",
+        "id": 205,
+        "industry": "Technology",
+        "name": "Eric Schmidt",
+        "networth": "$20.6 B",
+        "rank": 94,
+        "source": "Google"
     }
 ]
