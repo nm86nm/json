@@ -300,6 +300,16 @@
         "source": "Nutella, chocolates"
     },
     {
+        "age": 79,
+        "country/territory": "Indonesia",
+        "id": 201,
+        "industry": "Diversified",
+        "name": "Prajogo Pangestu",
+        "networth": "$43.4 B",
+        "rank": 27,
+        "source": "Petrochemicals, energy"
+    },
+    {
         "age": 83,
         "country/territory": "United States",
         "id": 31,
@@ -1998,17 +2008,7 @@
         "networth": "$9.6 B",
         "rank": 195,
         "source": "Candy, pet food"
-    },
-    {
-        "age": 79,
-        "country/territory": "Indonesia",
-        "id": 201,
-        "industry": "Diversified",
-        "name": "Prajogo Pangestu",
-        "networth": "$43.4 B",
-        "rank": 27,
-        "source": "Petrochemicals, energy"
-    },
+    },    
     {
         "age": 53,
         "country/territory": "Italy",
