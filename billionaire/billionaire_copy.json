@@ -198,37 +198,107 @@
         "networth": "$81.6 B",
         "rank": 20,
         "source": "L'Oréal"
-    },            
+    },
     {
-        "age": 68,
-        "country/territory": "China",
-        "id": 15,
-        "industry": "Food & Beverage",
-        "name": "Zhong Shanshan",
-        "networth": "$62.3 B",
-        "rank": 24,
-        "source": "Beverages, pharmaceuticals"
-    },   
-    {
-        "age": 87,
+        "age": 62,
         "country/territory": "United States",
-        "id": 17,
+        "id": 21,
         "industry": "Diversified",
-        "name": "Charles Koch",
-        "networth": "$58.5 B",
-        "rank": 25,
+        "name": "Julia Koch & family",
+        "networth": "$74.2 B",
+        "rank": 21,
         "source": "Koch Industries"
     },
     {
-        "age": 60,
+        "age": 89,
         "country/territory": "United States",
-        "id": 18,
+        "id": 22,
         "industry": "Diversified",
-        "name": "Julia Koch & family",
-        "networth": "$64.3 B",
-        "rank": 23,
+        "name": "Charles Koch",
+        "networth": "$67.5 B",
+        "rank": 22,
         "source": "Koch Industries"
-    },      
+    },
+    {
+        "age": 41,
+        "country/territory": "China",
+        "id": 23,
+        "industry": "Technology",
+        "name": "Zhang Yiming",
+        "networth": "$65.5 B",
+        "rank": 23,
+        "source": "TikTok"
+    },
+    {
+        "age": 48,
+        "country/territory": "Canada",
+        "id": 24,
+        "industry": "Finance & Investments",
+        "name": "Changpeng Zhao",
+        "networth": "$62.9 B",
+        "rank": 24,
+        "source": "Cryptocurrency exchange"
+    },
+    {
+        "age": 66,
+        "country/territory": "United States",
+        "id": 25,
+        "industry": "Finance & Investments",
+        "name": "Jeff Yass",
+        "networth": "$59 B",
+        "rank": 25,
+        "source": "Trading, investments"
+    },
+    {
+        "age": 70,
+        "country/territory": "China",
+        "id": 26,
+        "industry": "Food & Beverage",
+        "name": "Zhong Shanshan",
+        "networth": "$57.7 B",
+        "rank": 26,
+        "source": "Beverages, pharmaceuticals"
+    },              
+    {
+        "age": 80,
+        "country/territory": "United States",
+        "id": 27,
+        "industry": "Finance & Investments",
+        "name": "Thomas Peterffy",
+        "networth": "$57.3 B",
+        "rank": 27,
+        "source": "Discount brokerage"
+    },
+    {
+        "age": 62,
+        "country/territory": "India",
+        "id": 28,
+        "industry": "Diversified",
+        "name": "Gautam Adani",
+        "networth": "$56.3 B",
+        "rank": 28,
+        "source": "Infrastructure, commodities"
+    },
+    {
+        "age": 53,
+        "country/territory": "China",
+        "id": 29,
+        "industry": "Technology",
+        "name": "Ma Huateng",
+        "networth": "$56.2 B",
+        "rank": 29,
+        "source": "Internet media"
+    },
+    {
+        "age": 76,
+        "country/territory": "Japan",
+        "id": 30,
+        "industry": "Fashion & Retail",
+        "name": "Tadashi Yanai & family",
+        "networth": "$45.1 B",
+        "rank": 30,
+        "source": "Fashion retail"
+    },
     {
         "age": 65,
         "country/territory": "Canada",
@@ -238,17 +308,7 @@
         "networth": "$67.8 B",
         "rank": 22,
         "source": "Media"
-    },    
-    {
-        "age": 60,
-        "country/territory": "India",
-        "id": 24,
-        "industry": "Diversified",
-        "name": "Gautam Adani",
-        "networth": "$84 B",
-        "rank": 17,
-        "source": "Infrastructure, commodities"
-    },
+    },        
     {
         "age": 85,
         "country/territory": "United States",
@@ -258,17 +318,7 @@
         "networth": "$40.9 B",
         "rank": 30,
         "source": "Nike"
-    },
-    {
-        "age": 39,
-        "country/territory": "China",
-        "id": 26,
-        "industry": "Technology",
-        "name": "Zhang Yiming",
-        "networth": "$43.4 B",
-        "rank": 27,
-        "source": "TikTok"
-    },
+    },    
     {
         "age": 83,
         "country/territory": "Germany",
@@ -338,17 +388,7 @@
         "networth": "$37.3 B",
         "rank": 38,
         "source": "Diversified"
-    },
-    {
-        "age": 51,
-        "country/territory": "China",
-        "id": 34,
-        "industry": "Technology",
-        "name": "Ma Huateng",
-        "networth": "$30.2 B",
-        "rank": 57,
-        "source": "Internet media"
-    },
+    },    
     {
         "age": 77,
         "country/territory": "United States",
@@ -388,17 +428,7 @@
         "networth": "$22.9 B",
         "rank": 89,
         "source": "Batteries"
-    },
-    {
-        "age": 74,
-        "country/territory": "Japan",
-        "id": 39,
-        "industry": "Fashion & Retail",
-        "name": "Tadashi Yanai & family",
-        "networth": "$42.8 B",
-        "rank": 29,
-        "source": "Fashion retail"
-    },
+    },    
     {
         "age": 65,
         "country/territory": "United States",
@@ -478,17 +508,7 @@
         "networth": "$27.7 B",
         "rank": 63,
         "source": "Real estate"
-    },
-    {
-        "age": 64,
-        "country/territory": "United States",
-        "id": 48,
-        "industry": "Finance & Investments",
-        "name": "Jeff Yass",
-        "networth": "$27.6 B",
-        "rank": 64,
-        "source": "Trading, investments"
-    },
+    },    
     {
         "age": 84,
         "country/territory": "United States",
@@ -568,17 +588,7 @@
         "networth": "$27.4 B",
         "rank": 66,
         "source": "Coal"
-    },
-    {
-        "age": 78,
-        "country/territory": "United States",
-        "id": 57,
-        "industry": "Finance & Investments",
-        "name": "Thomas Peterffy",
-        "networth": "$34 B",
-        "rank": 44,
-        "source": "Discount brokerage"
-    },
+    },    
     {
         "age": 51,
         "country/territory": "Russia",
@@ -1678,17 +1688,7 @@
         "networth": "$10.5 B",
         "rank": 167,
         "source": "E-commerce"
-    },
-    {
-        "age": 45,
-        "country/territory": "Canada",
-        "id": 169,
-        "industry": "Finance & Investments",
-        "name": "Changpeng Zhao",
-        "networth": "$33 B",
-        "rank": 50,
-        "source": "Cryptocurrency exchange"
-    },
+    },    
     {
         "age": 70,
         "country/territory": "United States",
