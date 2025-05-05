@@ -100,53 +100,103 @@
         "source": "Microsoft"
     },
     {
-        "age": 67,
+        "age": 80,
         "country/territory": "United States",
-        "id": 6,
-        "industry": "Technology",
-        "name": "Bill Gates",
-        "networth": "$128 B",
-        "rank": 7,
-        "source": "Microsoft"
-    },    
-    {
-        "age": 81,
-        "country/territory": "United States",
-        "id": 7,
-        "industry": "Media & Entertainment",
-        "name": "Michael Bloomberg",
-        "networth": "$106 B",
-        "rank": 12,
-        "source": "Bloomberg LP"
+        "id": 11,
+        "industry": "Fashion & Retail",
+        "name": "Rob Walton",
+        "networth": "$110 B",
+        "rank": 11,
+        "source": "Walmart"
     },
-    {
-        "age": 83,
-        "country/territory": "Mexico",
-        "id": 8,
-        "industry": "Telecom",
-        "name": "Carlos Slim Helu & family",
-        "networth": "$102 B",
-        "rank": 14,
-        "source": "Telecom"
-    },    
-    {
-        "age": 65,
-        "country/territory": "India",
-        "id": 9,
-        "industry": "Diversified",
-        "name": "Mukesh Ambani",
-        "networth": "$116 B",
-        "rank": 9,
-        "source": "Diversified"
+     {
+        "age": 76,
+        "country/territory": "United States",
+        "id": 12,
+        "industry": "Fashion & Retail",
+        "name": "Jim Walton",
+        "networth": "$109 B",
+        "rank": 18,
+        "source": "Walmart"
     },    
     {
         "age": 69,
+        "country/territory": "United States",
+        "id": 13,
+        "industry": "Technology",
+        "name": "Bill Gates",
+        "networth": "$108 B",
+        "rank": 13,
+        "source": "Microsoft"
+    },    
+    {
+        "age": 75,
+        "country/territory": "United States",
+        "id": 14,
+        "industry": "Media & Entertainment",
+        "name": "Michael Bloomberg",
+        "networth": "$105 B",
+        "rank": 14,
+        "source": "Bloomberg LP"
+    },
+     {
+        "age": 73,
+        "country/territory": "United States",
+        "id": 15,
+        "industry": "Fashion & Retail",
+        "name": "Alice Walton",
+        "networth": "$101 B",
+        "rank": 15,
+        "source": "Walmart"
+    },
+    {
+        "age": 62,
+        "country/territory": "United States",
+        "id": 16,
+        "industry": "Technology",
+        "name": "Jensen Huang",
+        "networth": "$98.7 B",
+        "rank": 16,
+        "source": "Semiconductors"
+    },
+    {
+        "age": 60,
+        "country/territory": "United States",
+        "id": 17,
+        "industry": "Technology",
+        "name": "Michael Dell",
+        "networth": "$97.7 B",
+        "rank": 17,
+        "source": "Dell Technologies"
+    },
+    {
+        "age": 67,
+        "country/territory": "India",
+        "id": 18,
+        "industry": "Diversified",
+        "name": "Mukesh Ambani",
+        "networth": "$92.5 B",
+        "rank": 18,
+        "source": "Diversified"
+    },    
+    {
+        "age": 85,
+        "country/territory": "Mexico",
+        "id": 19,
+        "industry": "Telecom",
+        "name": "Carlos Slim Helu & family",
+        "networth": "$82.5 B",
+        "rank": 19,
+        "source": "Telecom"
+    },        
+    {
+        "age": 71,
         "country/territory": "France",
-        "id": 11,
+        "id": 20,
         "industry": "Fashion & Retail",
         "name": "Francoise Bettencourt Meyers & family",
-        "networth": "$99.5 B",
-        "rank": 15,
+        "networth": "$81.6 B",
+        "rank": 20,
         "source": "L'Oréal"
     },            
     {
@@ -178,37 +228,7 @@
         "networth": "$64.3 B",
         "rank": 23,
         "source": "Koch Industries"
-    },
-    {
-        "age": 74,
-        "country/territory": "United States",
-        "id": 19,
-        "industry": "Fashion & Retail",
-        "name": "Jim Walton",
-        "networth": "$78.4 B",
-        "rank": 18,
-        "source": "Walmart"
-    },
-    {
-        "age": 78,
-        "country/territory": "United States",
-        "id": 20,
-        "industry": "Fashion & Retail",
-        "name": "Rob Walton",
-        "networth": "$77.4 B",
-        "rank": 19,
-        "source": "Walmart"
-    },
-    {
-        "age": 73,
-        "country/territory": "United States",
-        "id": 21,
-        "industry": "Fashion & Retail",
-        "name": "Alice Walton",
-        "networth": "$72.3 B",
-        "rank": 21,
-        "source": "Walmart"
-    },
+    },      
     {
         "age": 65,
         "country/territory": "Canada",
@@ -218,17 +238,7 @@
         "networth": "$67.8 B",
         "rank": 22,
         "source": "Media"
-    },
-    {
-        "age": 58,
-        "country/territory": "United States",
-        "id": 23,
-        "industry": "Technology",
-        "name": "Michael Dell",
-        "networth": "$91 B",
-        "rank": 16,
-        "source": "Dell Technologies"
-    },
+    },    
     {
         "age": 60,
         "country/territory": "India",
@@ -748,17 +758,7 @@
         "networth": "$21.2 B",
         "rank": 137,
         "source": "Package delivery"
-    },
-    {
-        "age": 60,
-        "country/territory": "United States",
-        "id": 76,
-        "industry": "Technology",
-        "name": "Jensen Huang",
-        "networth": "$77 B",
-        "rank": 20,
-        "source": "Semiconductors"
-    },
+    },    
     {
         "age": 90,
         "country/territory": "United States",
