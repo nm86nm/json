@@ -300,6 +300,106 @@
         "source": "Fashion retail"
     },
     {
+        "age": 78,
+        "country/territory": "United States",
+        "id": 31,
+        "industry": "Finance & Investments",
+        "name": "Stephen Schwarzman",
+        "networth": "$44.4 B",
+        "rank": 31,
+        "source": "Investments"
+    },
+     {
+        "age": 55,
+        "country/territory": "China",
+        "id": 32,
+        "industry": "Technology",
+        "name": "Lei Jun",
+        "networth": "$43.5 B",
+        "rank": 32,
+        "source": "Smartphones"
+    },
+    {
+        "age": 85,
+        "country/territory": "United States",
+        "id": 33,
+        "industry": "Food & Beverage",
+        "name": "Jacqueline Mars",
+        "networth": "$42.6 B",
+        "rank": 33,
+        "source": "Candy, pet food"
+    },    
+    {
+        "age": 89,
+        "country/territory": "United States",
+        "id": 34,
+        "industry": "Food & Beverage",
+        "name": "John Mars",
+        "networth": "$42.6 B",
+        "rank": 33,
+        "source": "Candy, pet food"
+    },
+    {
+        "age": 56,
+        "country/territory": "United States",
+        "id": 35,
+        "industry": "Finance & Investments",
+        "name": "Ken Griffin",
+        "networth": "$42.3 B",
+        "rank": 35,
+        "source": "Hedge funds"
+    },
+    {
+        "age": 45,
+        "country/territory": "China",
+        "id": 36,
+        "industry": "Technology",
+        "name": "Colin Zheng Huang",
+        "networth": "$42.3 B",
+        "rank": 35,
+        "source": "E-commerce"
+    },
+    {
+        "age": 85,
+        "country/territory": "Germany",
+        "id": 37,
+        "industry": "Fashion & Retail",
+        "name": "Dieter Schwarz",
+        "networth": "$41 B",
+        "rank": 37,
+        "source": "Retail"
+    },
+     {
+        "age": 32,
+        "country/territory": "Austria",
+        "id": 38,
+        "industry": "Food & Beverage",
+        "name": "Mark Mateschitz",
+        "networth": "$40.6 B",
+        "rank": 38,
+        "source": "Red Bull"
+    },
+    {
+        "age": 87,
+        "country/territory": "Germany",
+        "id": 39,
+        "industry": "Logistics",
+        "name": "Klaus-Michael Kuehne",
+        "networth": "$39.6 B",
+        "rank": 39,
+        "source": "Shipping"
+    },
+    {
+        "age": 96,
+        "country/territory": "Hong Kong",
+        "id": 40,
+        "industry": "Diversified",
+        "name": "Li Ka-shing",
+        "networth": "$38.9 B",
+        "rank": 40,
+        "source": "Diversified"
+    },
+    {
         "age": 65,
         "country/territory": "Canada",
         "id": 22,
@@ -318,17 +418,7 @@
         "networth": "$40.9 B",
         "rank": 30,
         "source": "Nike"
-    },    
-    {
-        "age": 83,
-        "country/territory": "Germany",
-        "id": 27,
-        "industry": "Fashion & Retail",
-        "name": "Dieter Schwarz",
-        "networth": "$38 B",
-        "rank": 37,
-        "source": "Retail"
-    },
+    },        
     {
         "age": 86,
         "country/territory": "France",
@@ -338,17 +428,7 @@
         "networth": "$31.6 B",
         "rank": 54,
         "source": "Luxury goods"
-    },
-    {
-        "age": 85,
-        "country/territory": "Germany",
-        "id": 29,
-        "industry": "Logistics",
-        "name": "Klaus-Michael Kuehne",
-        "networth": "$39.2 B",
-        "rank": 32,
-        "source": "Shipping"
-    },
+    },    
     {
         "age": 58,
         "country/territory": "Italy",
@@ -358,37 +438,7 @@
         "networth": "$43.8 B",
         "rank": 26,
         "source": "Nutella, chocolates"
-    },    
-    {
-        "age": 83,
-        "country/territory": "United States",
-        "id": 31,
-        "industry": "Food & Beverage",
-        "name": "Jacqueline Mars",
-        "networth": "$38.5 B",
-        "rank": 35,
-        "source": "Candy, pet food"
-    },
-    {
-        "age": 87,
-        "country/territory": "United States",
-        "id": 32,
-        "industry": "Food & Beverage",
-        "name": "John Mars",
-        "networth": "$38.5 B",
-        "rank": 35,
-        "source": "Candy, pet food"
-    },
-    {
-        "age": 94,
-        "country/territory": "Hong Kong",
-        "id": 33,
-        "industry": "Diversified",
-        "name": "Li Ka-shing",
-        "networth": "$37.3 B",
-        "rank": 38,
-        "source": "Diversified"
-    },    
+    },        
     {
         "age": 77,
         "country/territory": "United States",
@@ -398,27 +448,7 @@
         "networth": "$32 B",
         "rank": 53,
         "source": "Casinos"
-    },
-    {
-        "age": 54,
-        "country/territory": "United States",
-        "id": 36,
-        "industry": "Finance & Investments",
-        "name": "Ken Griffin",
-        "networth": "$36.4 B",
-        "rank": 42,
-        "source": "Hedge funds"
-    },
-    {
-        "age": 30,
-        "country/territory": "Austria",
-        "id": 37,
-        "industry": "Food & Beverage",
-        "name": "Mark Mateschitz",
-        "networth": "$39.6 B",
-        "rank": 31,
-        "source": "Red Bull"
-    },
+    },       
     {
         "age": 54,
         "country/territory": "Hong Kong",
@@ -478,17 +508,7 @@
         "networth": "$33.1 B",
         "rank": 48,
         "source": "Shipping"
-    },
-    {
-        "age": 43,
-        "country/territory": "China",
-        "id": 45,
-        "industry": "Technology",
-        "name": "Colin Zheng Huang",
-        "networth": "$38.9 B",
-        "rank": 33,
-        "source": "E-commerce"
-    },
+    },    
     {
         "age": 87,
         "country/territory": "Germany",
@@ -518,17 +538,7 @@
         "networth": "$31.4 B",
         "rank": 55,
         "source": "Hedge funds"
-    },
-    {
-        "age": 76,
-        "country/territory": "United States",
-        "id": 50,
-        "industry": "Finance & Investments",
-        "name": "Stephen Schwarzman",
-        "networth": "$38.8 B",
-        "rank": 34,
-        "source": "Investments"
-    },
+    },    
     {
         "age": 60,
         "country/territory": "Germany",
@@ -1908,17 +1918,7 @@
         "networth": "$9.7 B",
         "rank": 190,
         "source": "Private equity"
-    },
-    {
-        "age": 53,
-        "country/territory": "China",
-        "id": 192,
-        "industry": "Technology",
-        "name": "Lei Jun",
-        "networth": "$9.7 B",
-        "rank": 190,
-        "source": "Smartphones"
-    },
+    },   
     {
         "age": 76,
         "country/territory": "Germany",
