@@ -400,7 +400,107 @@
         "source": "Diversified"
     },
     {
-        "age": 65,
+        "age": 60,
+        "country/territory": "Italy",
+        "id": 41,
+        "industry": "Food & Beverage",
+        "name": "Giovanni Ferrero",
+        "networth": "$38.2 B",
+        "rank": 41,
+        "source": "Nutella, chocolates"
+    },
+    {
+        "age": 38,
+        "country/territory": "United States",
+        "id": 42,
+        "industry": "Fashion & Retail",
+        "name": "Lukas Walton",
+        "networth": "$37.9 B",
+        "rank": 42,
+        "source": "Walmart"
+    },
+    {
+        "age": 56,
+        "country/territory": "Hong Kong",
+        "id": 43,
+        "industry": "Automotive",
+        "name": "Robin Zeng",
+        "networth": "$37.9 B",
+        "rank": 42,
+        "source": "Batteries"
+    },
+    {
+        "age": 84,
+        "country/territory": "Switzerland",
+        "id": 44,
+        "industry": "Logistics",
+        "name": "Gianluigi Aponte",
+        "networth": "$37.7 B",
+        "rank": 44,
+        "source": "Shipping"
+    },
+    {
+        "age": 80,
+        "country/territory": "Switzerland",
+        "id": 45,
+        "industry": "Logistics",
+        "name": "Rafaela Aponte-Diamant",
+        "networth": "$37.7 B",
+        "rank": 44,
+        "source": "Shipping"
+    },
+    {
+        "age": 76,
+        "country/territory": "France",
+        "id": 46,
+        "industry": "Fashion & Retail",
+        "name": "Alain Wertheimer",
+        "networth": "$36 B",
+        "rank": 46,
+        "source": "Chanel"
+    },
+    {
+        "age": 74,
+        "country/territory": "France",
+        "id": 47,
+        "industry": "Fashion & Retail",
+        "name": "Gerard Wertheimer",
+        "networth": "$36 B",
+        "rank": 46,
+        "source": "Chanel"
+    },
+    {
+        "age": 75,
+        "country/territory": "India",
+        "id": 48,
+        "industry": "Metals & Mining",
+        "name": "Savitri Jindal & family",
+        "networth": "$35.5 B",
+        "rank": 48,
+        "source": "Steel"
+    },
+    {
+        "age": 87,
+        "country/territory": "United States",
+        "id": 49,
+        "industry": "Fashion & Retail",
+        "name": "Phil Knight & family",
+        "networth": "$35.4 B",
+        "rank": 49,
+        "source": "Nike"
+    },
+    {
+        "age": 89,
+        "country/territory": "Germany",
+        "id": 50,
+        "industry": "Manufacturing",
+        "name": "Reinhold Wuerth & family",
+        "networth": "$35.1 B",
+        "rank": 50,
+        "source": "Fasteners"
+    },
+    {
+        "age": 67,
         "country/territory": "Canada",
         "id": 22,
         "industry": "Media & Entertainment",
@@ -408,17 +508,7 @@
         "networth": "$67.8 B",
         "rank": 22,
         "source": "Media"
-    },        
-    {
-        "age": 85,
-        "country/territory": "United States",
-        "id": 25,
-        "industry": "Fashion & Retail",
-        "name": "Phil Knight & family",
-        "networth": "$40.9 B",
-        "rank": 30,
-        "source": "Nike"
-    },        
+    },            
     {
         "age": 86,
         "country/territory": "France",
@@ -428,16 +518,6 @@
         "networth": "$31.6 B",
         "rank": 54,
         "source": "Luxury goods"
-    },    
-    {
-        "age": 58,
-        "country/territory": "Italy",
-        "id": 30,
-        "industry": "Food & Beverage",
-        "name": "Giovanni Ferrero",
-        "networth": "$43.8 B",
-        "rank": 26,
-        "source": "Nutella, chocolates"
     },        
     {
         "age": 77,
@@ -448,17 +528,7 @@
         "networth": "$32 B",
         "rank": 53,
         "source": "Casinos"
-    },       
-    {
-        "age": 54,
-        "country/territory": "Hong Kong",
-        "id": 38,
-        "industry": "Automotive",
-        "name": "Robin Zeng",
-        "networth": "$22.9 B",
-        "rank": 89,
-        "source": "Batteries"
-    },    
+    },               
     {
         "age": 65,
         "country/territory": "United States",
@@ -468,56 +538,6 @@
         "networth": "$32.1 B",
         "rank": 52,
         "source": "Music, chemicals"
-    },
-    {
-        "age": 74,
-        "country/territory": "France",
-        "id": 41,
-        "industry": "Fashion & Retail",
-        "name": "Alain Wertheimer",
-        "networth": "$36.8 B",
-        "rank": 40,
-        "source": "Chanel"
-    },
-    {
-        "age": 72,
-        "country/territory": "France",
-        "id": 42,
-        "industry": "Fashion & Retail",
-        "name": "Gerard Wertheimer",
-        "networth": "$36.8 B",
-        "rank": 40,
-        "source": "Chanel"
-    },
-    {
-        "age": 82,
-        "country/territory": "Switzerland",
-        "id": 43,
-        "industry": "Logistics",
-        "name": "Gianluigi Aponte",
-        "networth": "$33.1 B",
-        "rank": 48,
-        "source": "Shipping"
-    },
-    {
-        "age": 78,
-        "country/territory": "Switzerland",
-        "id": 44,
-        "industry": "Logistics",
-        "name": "Rafaela Aponte-Diamant",
-        "networth": "$33.1 B",
-        "rank": 48,
-        "source": "Shipping"
-    },    
-    {
-        "age": 87,
-        "country/territory": "Germany",
-        "id": 46,
-        "industry": "Manufacturing",
-        "name": "Reinhold Wuerth & family",
-        "networth": "$33.6 B",
-        "rank": 45,
-        "source": "Fasteners"
     },
     {
         "age": 95,
@@ -758,17 +778,7 @@
         "networth": "$27.4 B",
         "rank": 66,
         "source": "Gas, chemicals"
-    },
-    {
-        "age": 36,
-        "country/territory": "United States",
-        "id": 74,
-        "industry": "Fashion & Retail",
-        "name": "Lukas Walton",
-        "networth": "$28 B",
-        "rank": 60,
-        "source": "Walmart"
-    },
+    },    
     {
         "age": 52,
         "country/territory": "China",
@@ -968,17 +978,7 @@
         "networth": "$5.9 B",
         "rank": 498,
         "source": "Investments"
-    },
-    {
-        "age": 73,
-        "country/territory": "India",
-        "id": 96,
-        "industry": "Metals & Mining",
-        "name": "Savitri Jindal & family",
-        "networth": "$33.5 B",
-        "rank": 46,
-        "source": "Steel"
-    },
+    },    
     {
         "age": 90,
         "country/territory": "United States",
