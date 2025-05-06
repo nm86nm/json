@@ -500,6 +500,106 @@
         "source": "Fasteners"
     },
     {
+        "age": 79,
+        "country/territory": "India",
+        "id": 51,
+        "industry": "Technology",
+        "name": "Shiv Nadar",
+        "networth": "$34.5 B",
+        "rank": 51,
+        "source": "Software services"
+    },
+    {
+        "age": 43,
+        "country/territory": "Brazil",
+        "id": 52,
+        "industry": "Technology",
+        "name": "Eduardo Saverin",
+        "networth": "$34.5 B",
+        "rank": 51,
+        "source": "Facebook"
+    },
+    {
+        "age": 54,
+        "country/territory": "Italy",
+        "id": 53,
+        "industry": "Finance & Investments",
+        "name": "Andrea Pignataro",
+        "networth": "$34.2 B",
+        "rank": 53,
+        "source": "Financial software"
+    },
+    {
+        "age": 53,
+        "country/territory": "China",
+        "id": 54,
+        "industry": "Technology",
+        "name": "William Ding",
+        "networth": "$33.3 B",
+        "rank": 54,
+        "source": "Online games"
+    },    
+    {
+        "age": 63,
+        "country/territory": "United States",
+        "id": 55,
+        "industry": "Finance & Investments",
+        "name": "Abigail Johnson",
+        "networth": "$32.7 B",
+        "rank": 55,
+        "source": "Fidelity"
+    },    
+    {
+        "age": 79,
+        "country/territory": "United States",
+        "id": 56,
+        "industry": "Gambling & Casinos",
+        "name": "Miriam Adelson & family",
+        "networth": "$32.1 B",
+        "rank": 56,
+        "source": "Casinos"
+    },
+    {
+        "age": 74,
+        "country/territory": "United States",
+        "id": 57,
+        "industry": "Finance & Investments",
+        "name": "Marilyn Simons & family",
+        "networth": "$31 B",
+        "rank": 57,
+        "source": "Hedge funds"
+    },
+    {
+        "age": 60,
+        "country/territory": "United States",
+        "id": 58,
+        "industry": "Technology",
+        "name": "Melinda French Gates",
+        "networth": "$30.4 B",
+        "rank": 58,
+        "source": "Microsoft, investments"
+    },
+    {
+        "age": 67,
+        "country/territory": "United States",
+        "id": 59,
+        "industry": "Diversified",
+        "name": "Len Blavatnik",
+        "networth": "$29.9 B",
+        "rank": 59,
+        "source": "Music, chemicals"
+    },
+     {
+        "age": 67,
+        "country/territory": "Japan",
+        "id": 60,
+        "industry": "Telecom",
+        "name": "Masayoshi Son",
+        "networth": "$29.4 B",
+        "rank": 60,
+        "source": "Internet, telecom"
+    },
+    {
         "age": 67,
         "country/territory": "Canada",
         "id": 22,
@@ -518,27 +618,7 @@
         "networth": "$31.6 B",
         "rank": 54,
         "source": "Luxury goods"
-    },        
-    {
-        "age": 77,
-        "country/territory": "United States",
-        "id": 35,
-        "industry": "Gambling & Casinos",
-        "name": "Miriam Adelson & family",
-        "networth": "$32 B",
-        "rank": 53,
-        "source": "Casinos"
-    },               
-    {
-        "age": 65,
-        "country/territory": "United States",
-        "id": 40,
-        "industry": "Diversified",
-        "name": "Len Blavatnik",
-        "networth": "$32.1 B",
-        "rank": 52,
-        "source": "Music, chemicals"
-    },
+    },    
     {
         "age": 95,
         "country/territory": "Hong Kong",
@@ -598,17 +678,7 @@
         "networth": "$27.9 B",
         "rank": 62,
         "source": "Mining"
-    },
-    {
-        "age": 77,
-        "country/territory": "India",
-        "id": 55,
-        "industry": "Technology",
-        "name": "Shiv Nadar",
-        "networth": "$36.9 B",
-        "rank": 39,
-        "source": "Software services"
-    },
+    },    
     {
         "age": 74,
         "country/territory": "Indonesia",
@@ -728,17 +798,7 @@
         "networth": "$21.3 B",
         "rank": 90,
         "source": "Vaccines"
-    },
-    {
-        "age": 65,
-        "country/territory": "Japan",
-        "id": 69,
-        "industry": "Telecom",
-        "name": "Masayoshi Son",
-        "networth": "$32.7 B",
-        "rank": 51,
-        "source": "Internet, telecom"
-    },
+    },   
     {
         "age": 66,
         "country/territory": "Russia",
@@ -1758,17 +1818,7 @@
         "networth": "$10.2 B",
         "rank": 171,
         "source": "Steel"
-    },
-    {
-        "age": 41,
-        "country/territory": "Brazil",
-        "id": 176,
-        "industry": "Technology",
-        "name": "Eduardo Saverin",
-        "networth": "$28 B",
-        "rank": 60,
-        "source": "Facebook"
-    },
+    },    
     {
         "age": 58,
         "country/territory": "Germany",
@@ -2008,17 +2058,7 @@
         "networth": "$43.4 B",
         "rank": 27,
         "source": "Petrochemicals, energy"
-    },
-    {
-        "age": 53,
-        "country/territory": "Italy",
-        "id": 202,
-        "industry": "Finance & Investments",
-        "name": "Andrea Pignataro",
-        "networth": "$27.5 B",
-        "rank": 65,
-        "source": "Financial software"
-    },
+    },    
     {
         "age": 81,
         "country/territory": "United States",
