@@ -600,6 +600,106 @@
         "source": "Internet, telecom"
     },
     {
+        "age": 71,
+        "country/territory": "Australia",
+        "id": 61,
+        "industry": "Metals & Mining",
+        "name": "Gina Rinehart",
+        "networth": "$29.3 B",
+        "rank": 61,
+        "source": "Mining"
+    },
+    {
+        "age": 74,
+        "country/territory": "Russia",
+        "id": 62,
+        "industry": "Energy",
+        "name": "Vagit Alekperov",
+        "networth": "$28.7 B",
+        "rank": 62,
+        "source": "Oil"
+    },
+    {
+        "age": 60,
+        "country/territory": "China",
+        "id": 63,
+        "industry": "Technology",
+        "name": "Jack Ma",
+        "networth": "$28.6 B",
+        "rank": 63,
+        "source": "E-commerce"
+    },
+    {
+        "age": 59,
+        "country/territory": "Russia",
+        "id": 64,
+        "industry": "Metals & Mining",
+        "name": "Alexey Mordashov & family",
+        "networth": "$28.6 B",
+        "rank": 63,
+        "source": "Steel, investments"
+    },
+    {
+        "age": 71,
+        "country/territory": "Mexico",
+        "id": 65,
+        "industry": "Metals & Mining",
+        "name": "Germán Larrea Mota Velasco & family",
+        "networth": "$28.6 B",
+        "rank": 63,
+        "source": "Mining"
+    },
+    {
+        "age": 69,
+        "country/territory": "Russia",
+        "id": 66,
+        "industry": "Energy",
+        "name": "Leonid Mikhelson & family",
+        "networth": "$28.4 B",
+        "rank": 66,
+        "source": "Gas, chemicals"
+    },
+    {
+        "age": 82,
+        "country/territory": "United States",
+        "id": 67,
+        "industry": "Diversified",
+        "name": "Elaine Marshall & family",
+        "networth": "$28.3 B",
+        "rank": 67,
+        "source": "Koch Industries"
+    },
+    {
+        "age": 74,
+        "country/territory": "Israel",
+        "id": 68,
+        "industry": "Diversified",
+        "name": "Eyal Ofer",
+        "networth": "$28.2 B",
+        "rank": 68,
+        "source": "Real estate, shipping"
+    },
+    {
+        "age": 54,
+        "country/territory": "United States",
+        "id": 69,
+        "industry": "Technology",
+        "name": "MacKenzie Scott",
+        "networth": "$28.2 B",
+        "rank": 68,
+        "source": "Amazon"
+    },
+    {
+        "age": 82,
+        "country/territory": "Chile",
+        "id": 70,
+        "industry": "Metals & Mining",
+        "name": "Iris Fontbona & family",
+        "networth": "$28.1 B",
+        "rank": 70,
+        "source": "Mining"
+    },
+    {
         "age": 67,
         "country/territory": "Canada",
         "id": 22,
@@ -648,17 +748,7 @@
         "networth": "$26.5 B",
         "rank": 71,
         "source": "BMW, pharmaceuticals"
-    },
-    {
-        "age": 69,
-        "country/territory": "Australia",
-        "id": 52,
-        "industry": "Metals & Mining",
-        "name": "Gina Rinehart",
-        "networth": "$30.8 B",
-        "rank": 56,
-        "source": "Mining"
-    },
+    },    
     {
         "age": 51,
         "country/territory": "China",
@@ -668,17 +758,7 @@
         "networth": "$33.5 B",
         "rank": 46,
         "source": "Online games"
-    },
-    {
-        "age": 69,
-        "country/territory": "Mexico",
-        "id": 54,
-        "industry": "Metals & Mining",
-        "name": "Germán Larrea Mota Velasco & family",
-        "networth": "$27.9 B",
-        "rank": 62,
-        "source": "Mining"
-    },    
+    },        
     {
         "age": 74,
         "country/territory": "Indonesia",
@@ -708,17 +788,7 @@
         "networth": "$27.3 B",
         "rank": 68,
         "source": "BMW"
-    },
-    {
-        "age": 52,
-        "country/territory": "United States",
-        "id": 60,
-        "industry": "Technology",
-        "name": "MacKenzie Scott",
-        "networth": "$35.6 B",
-        "rank": 43,
-        "source": "Amazon"
-    },
+    },   
     {
         "age": 82,
         "country/territory": "Indonesia",
@@ -738,17 +808,7 @@
         "networth": "$23.7 B",
         "rank": 85,
         "source": "Metals"
-    },
-    {
-        "age": 58,
-        "country/territory": "China",
-        "id": 63,
-        "industry": "Technology",
-        "name": "Jack Ma",
-        "networth": "$24.5 B",
-        "rank": 81,
-        "source": "E-commerce"
-    },
+    },    
     {
         "age": 80,
         "country/territory": "China",
@@ -758,17 +818,7 @@
         "networth": "$25.1 B",
         "rank": 80,
         "source": "Home appliances"
-    },
-    {
-        "age": 80,
-        "country/territory": "Chile",
-        "id": 65,
-        "industry": "Metals & Mining",
-        "name": "Iris Fontbona & family",
-        "networth": "$25.7 B",
-        "rank": 75,
-        "source": "Mining"
-    },
+    },    
     {
         "age": 83,
         "country/territory": "Indonesia",
@@ -828,17 +878,7 @@
         "networth": "$29 B",
         "rank": 58,
         "source": "Fidelity"
-    },
-    {
-        "age": 67,
-        "country/territory": "Russia",
-        "id": 73,
-        "industry": "Energy",
-        "name": "Leonid Mikhelson & family",
-        "networth": "$27.4 B",
-        "rank": 66,
-        "source": "Gas, chemicals"
-    },    
+    },        
     {
         "age": 52,
         "country/territory": "China",
@@ -868,27 +908,7 @@
         "networth": "$23.1 B",
         "rank": 87,
         "source": "Sensors"
-    },
-    {
-        "age": 57,
-        "country/territory": "Russia",
-        "id": 79,
-        "industry": "Metals & Mining",
-        "name": "Alexey Mordashov & family",
-        "networth": "$25.5 B",
-        "rank": 76,
-        "source": "Steel, investments"
-    },
-    {
-        "age": 72,
-        "country/territory": "Russia",
-        "id": 80,
-        "industry": "Energy",
-        "name": "Vagit Alekperov",
-        "networth": "$28.6 B",
-        "rank": 59,
-        "source": "Oil"
-    },
+    },        
     {
         "age": 84,
         "country/territory": "United States",
@@ -938,17 +958,7 @@
         "networth": "$19 B",
         "rank": 84,
         "source": "Mining, copper products"
-    },
-    {
-        "age": 72,
-        "country/territory": "Israel",
-        "id": 86,
-        "industry": "Diversified",
-        "name": "Eyal Ofer",
-        "networth": "$24 B",
-        "rank": 84,
-        "source": "Real estate, shipping"
-    },
+    },    
     {
         "age": 57,
         "country/territory": "China",
@@ -2058,16 +2068,6 @@
         "networth": "$43.4 B",
         "rank": 27,
         "source": "Petrochemicals, energy"
-    },    
-    {
-        "age": 81,
-        "country/territory": "United States",
-        "id": 203,
-        "industry": "Diversified",
-        "name": "Elaine Marshall & family",
-        "networth": "$24.5 B",
-        "rank": 81,
-        "source": "Koch Industries"
     },
     {
         "age": 92,
