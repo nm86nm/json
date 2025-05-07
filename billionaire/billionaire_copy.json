@@ -800,6 +800,116 @@
         "source": "Cheese"
     },
     {
+        "age": 64,
+        "country/territory": "Russia",
+        "id": 81,
+        "industry": "Metals & Mining",
+        "name": "Vladimir Potanin",
+        "networth": "$24.2 B",
+        "rank": 81,
+        "source": "Metals"
+    },
+    {
+        "age": 69,
+        "country/territory": "United States",
+        "id": 82,
+        "industry": "Technology",
+        "name": "Eric Schmidt",
+        "networth": "$24 B",
+        "rank": 82,
+        "source": "Google"
+    },
+    {
+        "age": 67,
+        "country/territory": "Nigeria",
+        "id": 83,
+        "industry": "Manufacturing",
+        "name": "Aliko Dangote",
+        "networth": "$23.9 B",
+        "rank": 83,
+        "source": "Cement, sugar"
+    },
+    {
+        "age": 58,
+        "country/territory": "Germany",
+        "id": 84,
+        "industry": "Automotive",
+        "name": "Stefan Quandt",
+        "networth": "$23.8 B",
+        "rank": 84,
+        "source": "BMW"
+    },
+    {
+        "age": 72,
+        "country/territory": "Russia",
+        "id": 85,
+        "industry": "Energy",
+        "name": "Gennady Timchenko",
+        "networth": "$23.2 B",
+        "rank": 85,
+        "source": "Oil, gas"
+    },
+    {
+        "age": 83,
+        "country/territory": "India",
+        "id": 86,
+        "industry": "Healthcare",
+        "name": "Cyrus Poonawalla",
+        "networth": "$23.1 B",
+        "rank": 86,
+        "source": "Vaccines"
+    },
+    {
+        "age": 94,
+        "country/territory": "United States",
+        "id": 87,
+        "industry": "Media & Entertainment",
+        "name": "Rupert Murdoch & family",
+        "networth": "$23 B",
+        "rank": 87,
+        "source": "Newspapers, TV network"
+    },
+    {
+        "age": 85,
+        "country/territory": "United States",
+        "id": 88,
+        "industry": "Fashion & Retail",
+        "name": "John Menard, Jr.",
+        "networth": "$22.9 B",
+        "rank": 88,
+        "source": "Home improvement stores"
+    },
+    {
+        "age": 69,
+        "country/territory": "Israel",
+        "id": 89,
+        "industry": "Diversified",
+        "name": "Idan Ofer",
+        "networth": "$22.5 B",
+        "rank": 89,
+        "source": "Shipping"
+    },
+    {
+        "age": 60,
+        "country/territory": "Italy",
+        "id": 90,
+        "industry": "Finance & Investments",
+        "name": "Giancarlo Devasini",
+        "networth": "$22.4 B",
+        "rank": 90,
+        "source": "Cryptocurrency"
+    },
+    {
+        "age": 84,
+        "country/territory": "Indonesia",
+        "id": 91,
+        "industry": "Finance & Investments",
+        "name": "R. Budi Hartono",
+        "networth": "$22.4 B",
+        "rank": 90,
+        "source": "Banking, tobacco"
+    },
+    {
         "age": 67,
         "country/territory": "Canada",
         "id": 22,
@@ -858,37 +968,7 @@
         "networth": "$21.1 B",
         "rank": 91,
         "source": "Fertilizers, coal"
-    },
-    {
-        "age": 56,
-        "country/territory": "Germany",
-        "id": 59,
-        "industry": "Automotive",
-        "name": "Stefan Quandt",
-        "networth": "$27.3 B",
-        "rank": 68,
-        "source": "BMW"
-    },   
-    {
-        "age": 82,
-        "country/territory": "Indonesia",
-        "id": 61,
-        "industry": "Finance & Investments",
-        "name": "R. Budi Hartono",
-        "networth": "$26.5 B",
-        "rank": 71,
-        "source": "Banking, tobacco"
-    },
-    {
-        "age": 62,
-        "country/territory": "Russia",
-        "id": 62,
-        "industry": "Metals & Mining",
-        "name": "Vladimir Potanin",
-        "networth": "$23.7 B",
-        "rank": 85,
-        "source": "Metals"
-    },
+    },       
     {
         "age": 83,
         "country/territory": "Indonesia",
@@ -908,17 +988,7 @@
         "networth": "$22.9 B",
         "rank": 111,
         "source": "Chemicals"
-    },
-    {
-        "age": 81,
-        "country/territory": "India",
-        "id": 68,
-        "industry": "Healthcare",
-        "name": "Cyrus Poonawalla",
-        "networth": "$21.3 B",
-        "rank": 90,
-        "source": "Vaccines"
-    },       
+    },    
     {
         "age": 61,
         "country/territory": "United States",
@@ -1028,17 +1098,7 @@
         "networth": "$20.6 B",
         "rank": 94,
         "source": "Hedge funds"
-    },
-    {
-        "age": 70,
-        "country/territory": "Russia",
-        "id": 91,
-        "industry": "Energy",
-        "name": "Gennady Timchenko",
-        "networth": "$23.4 B",
-        "rank": 86,
-        "source": "Oil, gas"
-    },   
+    },    
     {
         "age": 72,
         "country/territory": "India",
@@ -1078,27 +1138,7 @@
         "networth": "$17.4 B",
         "rank": 97,
         "source": "Real estate"
-    },
-    {
-        "age": 83,
-        "country/territory": "United States",
-        "id": 98,
-        "industry": "Fashion & Retail",
-        "name": "John Menard, Jr.",
-        "networth": "$18 B",
-        "rank": 104,
-        "source": "Home improvement stores"
-    },
-    {
-        "age": 92,
-        "country/territory": "United States",
-        "id": 99,
-        "industry": "Media & Entertainment",
-        "name": "Rupert Murdoch & family",
-        "networth": "$19.5 B",
-        "rank": 100,
-        "source": "Newspapers, TV network"
-    },
+    },        
     {
         "age": 70,
         "country/territory": "Brazil",
@@ -1148,17 +1188,7 @@
         "networth": "$16.2 B",
         "rank": 104,
         "source": "H&M"
-    },
-    {
-        "age": 67,
-        "country/territory": "United States",
-        "id": 105,
-        "industry": "Technology",
-        "name": "Eric Schmidt",
-        "networth": "$20.6 B",
-        "rank": 94,
-        "source": "Google"
-    },
+    },    
     {
         "age": 55,
         "country/territory": "United Kingdom",
@@ -1338,17 +1368,7 @@
         "networth": "$19.7 B",
         "rank": 98,
         "source": "Commodities"
-    },
-    {
-        "age": 65,
-        "country/territory": "Nigeria",
-        "id": 125,
-        "industry": "Manufacturing",
-        "name": "Aliko Dangote",
-        "networth": "$14.2 B",
-        "rank": 124,
-        "source": "Cement, sugar"
-    },
+    },    
     {
         "age": 93,
         "country/territory": "Hong Kong",
@@ -1358,17 +1378,7 @@
         "networth": "$14.1 B",
         "rank": 126,
         "source": "Real estate"
-    },
-    {
-        "age": 67,
-        "country/territory": "Israel",
-        "id": 127,
-        "industry": "Diversified",
-        "name": "Idan Ofer",
-        "networth": "$14 B",
-        "rank": 127,
-        "source": "Shipping"
-    },
+    },    
     {
         "age": 57,
         "country/territory": "China",
