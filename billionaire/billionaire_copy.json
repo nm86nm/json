@@ -700,6 +700,106 @@
         "source": "Mining"
     },
     {
+        "age": 63,
+        "country/territory": "United States",
+        "id": 71,
+        "industry": "Finance & Investments",
+        "name": "Daniel Gilbert",
+        "networth": "$27.8 B",
+        "rank": 71,
+        "source": "Quicken Loans"
+    },
+    {
+        "age": 76,
+        "country/territory": "Indonesia",
+        "id": 72,
+        "industry": "Energy",
+        "name": "Low Tuck Kwong",
+        "networth": "$27.3 B",
+        "rank": 72,
+        "source": "Coal"
+    },
+    {
+        "age": 86,
+        "country/territory": "United States",
+        "id": 73,
+        "industry": "Healthcare",
+        "name": "Thomas Frist, Jr. & family",
+        "networth": "$27 B",
+        "rank": 73,
+        "source": "Hospitals"
+    },
+    {
+        "age": 82,
+        "country/territory": "China",
+        "id": 74,
+        "industry": "Manufacturing",
+        "name": "He Xiangjian & family",
+        "networth": "$27 B",
+        "rank": 73,
+        "source": "Home appliances"
+    },
+    {
+        "age": 68,
+        "country/territory": "Russia",
+        "id": 75,
+        "industry": "Metals & Mining",
+        "name": "Vladimir Lisin",
+        "networth": "$26.5 B",
+        "rank": 75,
+        "source": "Steel, transport"
+    },
+    {
+        "age": 58,
+        "country/territory": "China",
+        "id": 76,
+        "industry": "Automotive",
+        "name": "Wang Chuanfu",
+        "networth": "$26.4 B",
+        "rank": 76,
+        "source": "Batteries, automobiles"
+    },
+    {
+        "age": 50,
+        "country/territory": "United States",
+        "id": 77,
+        "industry": "Energy",
+        "name": "Lyndal Stephens Greth & family",
+        "networth": "$25.8 B",
+        "rank": 77,
+        "source": "Oil & gas"
+    },
+    {
+        "age": 62,
+        "country/territory": "Germany",
+        "id": 78,
+        "industry": "Automotive",
+        "name": "Susanne Klatten",
+        "networth": "$25.2 B",
+        "rank": 78,
+        "source": "BMW, pharmaceuticals"
+    },
+    {
+        "age": 69,
+        "country/territory": "India",
+        "id": 79,
+        "industry": "Healthcare",
+        "name": "Dilip Shanghvi",
+        "networth": "$24.9 B",
+        "rank": 79,
+        "source": "Pharmaceuticals"
+    },
+    {
+        "age": 54,
+        "country/territory": "France",
+        "id": 80,
+        "industry": "Food & Beverage",
+        "name": "Emmanuel Besnier",
+        "networth": "$24.5 B",
+        "rank": 80,
+        "source": "Cheese"
+    },
+    {
         "age": 67,
         "country/territory": "Canada",
         "id": 22,
@@ -738,17 +838,7 @@
         "networth": "$31.4 B",
         "rank": 55,
         "source": "Hedge funds"
-    },    
-    {
-        "age": 60,
-        "country/territory": "Germany",
-        "id": 51,
-        "industry": "Automotive",
-        "name": "Susanne Klatten",
-        "networth": "$26.5 B",
-        "rank": 71,
-        "source": "BMW, pharmaceuticals"
-    },    
+    },        
     {
         "age": 51,
         "country/territory": "China",
@@ -758,16 +848,6 @@
         "networth": "$33.5 B",
         "rank": 46,
         "source": "Online games"
-    },        
-    {
-        "age": 74,
-        "country/territory": "Indonesia",
-        "id": 56,
-        "industry": "Energy",
-        "name": "Low Tuck Kwong",
-        "networth": "$27.4 B",
-        "rank": 66,
-        "source": "Coal"
     },    
     {
         "age": 51,
@@ -808,17 +888,7 @@
         "networth": "$23.7 B",
         "rank": 85,
         "source": "Metals"
-    },    
-    {
-        "age": 80,
-        "country/territory": "China",
-        "id": 64,
-        "industry": "Manufacturing",
-        "name": "He Xiangjian & family",
-        "networth": "$25.1 B",
-        "rank": 80,
-        "source": "Home appliances"
-    },    
+    },
     {
         "age": 83,
         "country/territory": "Indonesia",
@@ -848,27 +918,7 @@
         "networth": "$21.3 B",
         "rank": 90,
         "source": "Vaccines"
-    },   
-    {
-        "age": 66,
-        "country/territory": "Russia",
-        "id": 70,
-        "industry": "Metals & Mining",
-        "name": "Vladimir Lisin",
-        "networth": "$26.6 B",
-        "rank": 70,
-        "source": "Steel, transport"
-    },
-    {
-        "age": 52,
-        "country/territory": "France",
-        "id": 71,
-        "industry": "Food & Beverage",
-        "name": "Emmanuel Besnier",
-        "networth": "$25.5 B",
-        "rank": 76,
-        "source": "Cheese"
-    },
+    },       
     {
         "age": 61,
         "country/territory": "United States",
@@ -908,17 +958,7 @@
         "networth": "$23.1 B",
         "rank": 87,
         "source": "Sensors"
-    },        
-    {
-        "age": 84,
-        "country/territory": "United States",
-        "id": 81,
-        "industry": "Healthcare",
-        "name": "Thomas Frist, Jr. & family",
-        "networth": "$26.2 B",
-        "rank": 73,
-        "source": "Hospitals"
-    },
+    },    
     {
         "age": 61,
         "country/territory": "Australia",
@@ -968,17 +1008,7 @@
         "networth": "$18.9 B",
         "rank": 122,
         "source": "Pig breeding"
-    },
-    {
-        "age": 57,
-        "country/territory": "China",
-        "id": 88,
-        "industry": "Automotive",
-        "name": "Wang Chuanfu",
-        "networth": "$18.7 B",
-        "rank": 131,
-        "source": "Batteries, automobiles"
-    },
+    },    
     {
         "age": 77,
         "country/territory": "United States",
@@ -1008,17 +1038,7 @@
         "networth": "$23.4 B",
         "rank": 86,
         "source": "Oil, gas"
-    },
-    {
-        "age": 61,
-        "country/territory": "United States",
-        "id": 92,
-        "industry": "Finance & Investments",
-        "name": "Daniel Gilbert",
-        "networth": "$26.2 B",
-        "rank": 73,
-        "source": "Quicken Loans"
-    },
+    },   
     {
         "age": 72,
         "country/territory": "India",
@@ -1198,17 +1218,7 @@
         "networth": "$15.8 B",
         "rank": 108,
         "source": "Real estate"
-    },
-    {
-        "age": 67,
-        "country/territory": "India",
-        "id": 112,
-        "industry": "Healthcare",
-        "name": "Dilip Shanghvi",
-        "networth": "$26.7 B",
-        "rank": 69,
-        "source": "Pharmaceuticals"
-    },
+    },    
     {
         "age": 45,
         "country/territory": "United States",
