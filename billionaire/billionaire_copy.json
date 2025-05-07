@@ -910,6 +910,96 @@
         "source": "Banking, tobacco"
     },
     {
+        "age": 78,
+        "country/territory": "United States",
+        "id": 92,
+        "industry": "Construction & Engineering",
+        "name": "Diane Hendricks",
+        "networth": "$21.9 B",
+        "rank": 92,
+        "source": "Building supplies"
+    },
+    {
+        "age": 88,
+        "country/territory": "France",
+        "id": 93,
+        "industry": "Fashion & Retail",
+        "name": "François Pinault & family",
+        "networth": "$21.7 B",
+        "rank": 93,
+        "source": "Luxury goods"
+    },
+    {
+        "age": 85,
+        "country/territory": "Indonesia",
+        "id": 94,
+        "industry": "Manufacturing",
+        "name": "Michael Hartono",
+        "networth": "$21.5 B",
+        "rank": 94,
+        "source": "Banking, tobacco"
+    },
+    {
+        "age": 68,
+        "country/territory": "United States",
+        "id": 95,
+        "industry": "Finance & Investments",
+        "name": "Steve Cohen",
+        "networth": "$21.3 B",
+        "rank": 95,
+        "source": "Hedge funds"
+    },
+    {
+        "age": 67,
+        "country/territory": "United States",
+        "id": 96,
+        "industry": "Finance & Investments",
+        "name": "David Tepper",
+        "networth": "$21.3 B",
+        "rank": 96,
+        "source": "Hedge funds"
+    },    
+    {
+        "age": 57,
+        "country/territory": "India",
+        "id": 97,
+        "industry": "Diversified",
+        "name": "Kumar Birla",
+        "networth": "$20.9 B",
+        "rank": 97,
+        "source": "Commodities"
+    },
+    {
+        "age": 72,
+        "country/territory": "Brazil",
+        "id": 98,
+        "industry": "Finance & Investments",
+        "name": "Vicky Safra & family",
+        "networth": "$20.7 B",
+        "rank": 98,
+        "source": "Banking"
+    },
+    {
+        "age": 62,
+        "country/territory": "China",
+        "id": 99,
+        "industry": "Automotive",
+        "name": "Lu Xiangyang",
+        "networth": "$20 B",
+        "rank": 99,
+        "source": "Automobiles, batteries"
+    },
+    {
+        "age": 80,
+        "country/territory": "Indonesia",
+        "id": 100,
+        "industry": "Diversified",
+        "name": "Prajogo Pangestu",
+        "networth": "$20 B",
+        "rank": 99,
+        "source": "Petrochemicals, energy"
+    },
+    {
         "age": 67,
         "country/territory": "Canada",
         "id": 22,
@@ -918,17 +1008,7 @@
         "networth": "$67.8 B",
         "rank": 22,
         "source": "Media"
-    },            
-    {
-        "age": 86,
-        "country/territory": "France",
-        "id": 28,
-        "industry": "Fashion & Retail",
-        "name": "François Pinault & family",
-        "networth": "$31.6 B",
-        "rank": 54,
-        "source": "Luxury goods"
-    },    
+    },  
     {
         "age": 95,
         "country/territory": "Hong Kong",
@@ -968,17 +1048,7 @@
         "networth": "$21.1 B",
         "rank": 91,
         "source": "Fertilizers, coal"
-    },       
-    {
-        "age": 83,
-        "country/territory": "Indonesia",
-        "id": 66,
-        "industry": "Manufacturing",
-        "name": "Michael Hartono",
-        "networth": "$25.5 B",
-        "rank": 76,
-        "source": "Banking, tobacco"
-    },
+    },    
     {
         "age": 70,
         "country/territory": "United Kingdom",
@@ -1088,16 +1158,6 @@
         "networth": "$18.5 B",
         "rank": 102,
         "source": "Oil & gas"
-    },
-    {
-        "age": 65,
-        "country/territory": "United States",
-        "id": 90,
-        "industry": "Finance & Investments",
-        "name": "David Tepper",
-        "networth": "$20.6 B",
-        "rank": 94,
-        "source": "Hedge funds"
     },    
     {
         "age": 72,
@@ -1108,17 +1168,7 @@
         "networth": "$17.7 B",
         "rank": 113,
         "source": "Steel"
-    },
-    {
-        "age": 66,
-        "country/territory": "United States",
-        "id": 94,
-        "industry": "Finance & Investments",
-        "name": "Steve Cohen",
-        "networth": "$19.8 B",
-        "rank": 97,
-        "source": "Hedge funds"
-    },
+    },    
     {
         "age": 87,
         "country/territory": "United States",
@@ -1138,17 +1188,7 @@
         "networth": "$17.4 B",
         "rank": 97,
         "source": "Real estate"
-    },        
-    {
-        "age": 70,
-        "country/territory": "Brazil",
-        "id": 100,
-        "industry": "Finance & Investments",
-        "name": "Vicky Safra & family",
-        "networth": "$20.6 B",
-        "rank": 94,
-        "source": "Banking"
-    },
+    },   
     {
         "age": 72,
         "country/territory": "Germany",
@@ -1358,16 +1398,6 @@
         "networth": "$14.3 B",
         "rank": 123,
         "source": "Paints"
-    },
-    {
-        "age": 55,
-        "country/territory": "India",
-        "id": 124,
-        "industry": "Diversified",
-        "name": "Kumar Birla",
-        "networth": "$19.7 B",
-        "rank": 98,
-        "source": "Commodities"
     },    
     {
         "age": 93,
@@ -1408,17 +1438,7 @@
         "networth": "$13.7 B",
         "rank": 130,
         "source": "Shipping"
-    },
-    {
-        "age": 76,
-        "country/territory": "United States",
-        "id": 131,
-        "industry": "Construction & Engineering",
-        "name": "Diane Hendricks",
-        "networth": "$20.9 B",
-        "rank": 92,
-        "source": "Building supplies"
-    },
+    },    
     {
         "age": 47,
         "country/territory": "United States",
@@ -1458,17 +1478,7 @@
         "networth": "$13.3 B",
         "rank": 133,
         "source": "Real estate"
-    },
-    {
-        "age": 60,
-        "country/territory": "China",
-        "id": 136,
-        "industry": "Automotive",
-        "name": "Lu Xiangyang",
-        "networth": "$13.2 B",
-        "rank": 136,
-        "source": "Automobiles, batteries"
-    },
+    },    
     {
         "age": 90,
         "country/territory": "Australia",
@@ -2078,17 +2088,7 @@
         "networth": "$9.6 B",
         "rank": 195,
         "source": "Candy, pet food"
-    },
-    {
-        "age": 79,
-        "country/territory": "Indonesia",
-        "id": 201,
-        "industry": "Diversified",
-        "name": "Prajogo Pangestu",
-        "networth": "$43.4 B",
-        "rank": 27,
-        "source": "Petrochemicals, energy"
-    },
+    },    
     {
         "age": 92,
         "country/territory": "India",
