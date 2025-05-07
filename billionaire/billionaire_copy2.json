@@ -1,1 +1,1002 @@
-
+[
+  {
+        "age": 53,
+        "country/territory": "United States",
+        "id": 1,
+        "industry": "Automotive",
+        "name": "Elon Musk",
+        "networth": "$342 B",
+        "rank": 1,
+        "source": "Tesla, SpaceX"
+    },
+     {
+        "age": 40,
+        "country/territory": "United States",
+        "id": 2,
+        "industry": "Technology",
+        "name": "Mark Zuckerberg",
+        "networth": "$216 B",
+        "rank": 2,
+        "source": "Facebook"
+    },
+    {
+        "age": 61,
+        "country/territory": "United States",
+        "id": 3,
+        "industry": "Technology",
+        "name": "Jeff Bezos",
+        "networth": "$215 B",
+        "rank": 3,
+        "source": "Amazon"
+    },
+    {
+        "age": 80,
+        "country/territory": "United States",
+        "id": 4,
+        "industry": "Technology",
+        "name": "Larry Ellison",
+        "networth": "$192 B",
+        "rank": 4,
+        "source": "Oracle"
+    },
+    {
+        "age": 76,
+        "country/territory": "France",
+        "id": 5,
+        "industry": "Fashion & Retail",
+        "name": "Bernard Arnault & family",
+        "networth": "$178 B",
+        "rank": 5,
+        "source": "LVMH"
+    },            
+    {
+        "age": 94,
+        "country/territory": "United States",
+        "id": 6,
+        "industry": "Finance & Investments",
+        "name": "Warren Buffett",
+        "networth": "$154 B",
+        "rank": 6,
+        "source": "Berkshire Hathaway"
+    },
+    {
+        "age": 52,
+        "country/territory": "United States",
+        "id": 7,
+        "industry": "Technology",
+        "name": "Larry Page",
+        "networth": "$144 B",
+        "rank": 7,
+        "source": "Google"
+    },
+    {
+        "age": 51,
+        "country/territory": "United States",
+        "id": 8,
+        "industry": "Technology",
+        "name": "Sergey Brin",
+        "networth": "$138 B",
+        "rank": 8,
+        "source": "Google"
+    },
+    {
+        "age": 89,
+        "country/territory": "Spain",
+        "id": 9,
+        "industry": "Fashion & Retail",
+        "name": "Amancio Ortega",
+        "networth": "$124 B",
+        "rank": 9,
+        "source": "Zara"
+    },
+    {
+        "age": 69,
+        "country/territory": "United States",
+        "id": 10,
+        "industry": "Technology",
+        "name": "Steve Ballmer",
+        "networth": "$118 B",
+        "rank": 10,
+        "source": "Microsoft"
+    },
+    {
+        "age": 80,
+        "country/territory": "United States",
+        "id": 11,
+        "industry": "Fashion & Retail",
+        "name": "Rob Walton",
+        "networth": "$110 B",
+        "rank": 11,
+        "source": "Walmart"
+    },
+     {
+        "age": 76,
+        "country/territory": "United States",
+        "id": 12,
+        "industry": "Fashion & Retail",
+        "name": "Jim Walton",
+        "networth": "$109 B",
+        "rank": 18,
+        "source": "Walmart"
+    },    
+    {
+        "age": 69,
+        "country/territory": "United States",
+        "id": 13,
+        "industry": "Technology",
+        "name": "Bill Gates",
+        "networth": "$108 B",
+        "rank": 13,
+        "source": "Microsoft"
+    },    
+    {
+        "age": 75,
+        "country/territory": "United States",
+        "id": 14,
+        "industry": "Media & Entertainment",
+        "name": "Michael Bloomberg",
+        "networth": "$105 B",
+        "rank": 14,
+        "source": "Bloomberg LP"
+    },
+     {
+        "age": 73,
+        "country/territory": "United States",
+        "id": 15,
+        "industry": "Fashion & Retail",
+        "name": "Alice Walton",
+        "networth": "$101 B",
+        "rank": 15,
+        "source": "Walmart"
+    },
+    {
+        "age": 62,
+        "country/territory": "United States",
+        "id": 16,
+        "industry": "Technology",
+        "name": "Jensen Huang",
+        "networth": "$98.7 B",
+        "rank": 16,
+        "source": "Semiconductors"
+    },
+    {
+        "age": 60,
+        "country/territory": "United States",
+        "id": 17,
+        "industry": "Technology",
+        "name": "Michael Dell",
+        "networth": "$97.7 B",
+        "rank": 17,
+        "source": "Dell Technologies"
+    },
+    {
+        "age": 67,
+        "country/territory": "India",
+        "id": 18,
+        "industry": "Diversified",
+        "name": "Mukesh Ambani",
+        "networth": "$92.5 B",
+        "rank": 18,
+        "source": "Diversified"
+    },    
+    {
+        "age": 85,
+        "country/territory": "Mexico",
+        "id": 19,
+        "industry": "Telecom",
+        "name": "Carlos Slim Helu & family",
+        "networth": "$82.5 B",
+        "rank": 19,
+        "source": "Telecom"
+    },        
+    {
+        "age": 71,
+        "country/territory": "France",
+        "id": 20,
+        "industry": "Fashion & Retail",
+        "name": "Francoise Bettencourt Meyers & family",
+        "networth": "$81.6 B",
+        "rank": 20,
+        "source": "L'Oréal"
+    },
+    {
+        "age": 62,
+        "country/territory": "United States",
+        "id": 21,
+        "industry": "Diversified",
+        "name": "Julia Koch & family",
+        "networth": "$74.2 B",
+        "rank": 21,
+        "source": "Koch Industries"
+    },
+    {
+        "age": 89,
+        "country/territory": "United States",
+        "id": 22,
+        "industry": "Diversified",
+        "name": "Charles Koch",
+        "networth": "$67.5 B",
+        "rank": 22,
+        "source": "Koch Industries"
+    },
+    {
+        "age": 41,
+        "country/territory": "China",
+        "id": 23,
+        "industry": "Technology",
+        "name": "Zhang Yiming",
+        "networth": "$65.5 B",
+        "rank": 23,
+        "source": "TikTok"
+    },
+    {
+        "age": 48,
+        "country/territory": "Canada",
+        "id": 24,
+        "industry": "Finance & Investments",
+        "name": "Changpeng Zhao",
+        "networth": "$62.9 B",
+        "rank": 24,
+        "source": "Cryptocurrency exchange"
+    },
+    {
+        "age": 66,
+        "country/territory": "United States",
+        "id": 25,
+        "industry": "Finance & Investments",
+        "name": "Jeff Yass",
+        "networth": "$59 B",
+        "rank": 25,
+        "source": "Trading, investments"
+    },
+    {
+        "age": 70,
+        "country/territory": "China",
+        "id": 26,
+        "industry": "Food & Beverage",
+        "name": "Zhong Shanshan",
+        "networth": "$57.7 B",
+        "rank": 26,
+        "source": "Beverages, pharmaceuticals"
+    },              
+    {
+        "age": 80,
+        "country/territory": "United States",
+        "id": 27,
+        "industry": "Finance & Investments",
+        "name": "Thomas Peterffy",
+        "networth": "$57.3 B",
+        "rank": 27,
+        "source": "Discount brokerage"
+    },
+    {
+        "age": 62,
+        "country/territory": "India",
+        "id": 28,
+        "industry": "Diversified",
+        "name": "Gautam Adani",
+        "networth": "$56.3 B",
+        "rank": 28,
+        "source": "Infrastructure, commodities"
+    },
+    {
+        "age": 53,
+        "country/territory": "China",
+        "id": 29,
+        "industry": "Technology",
+        "name": "Ma Huateng",
+        "networth": "$56.2 B",
+        "rank": 29,
+        "source": "Internet media"
+    },
+    {
+        "age": 76,
+        "country/territory": "Japan",
+        "id": 30,
+        "industry": "Fashion & Retail",
+        "name": "Tadashi Yanai & family",
+        "networth": "$45.1 B",
+        "rank": 30,
+        "source": "Fashion retail"
+    },
+    {
+        "age": 78,
+        "country/territory": "United States",
+        "id": 31,
+        "industry": "Finance & Investments",
+        "name": "Stephen Schwarzman",
+        "networth": "$44.4 B",
+        "rank": 31,
+        "source": "Investments"
+    },
+     {
+        "age": 55,
+        "country/territory": "China",
+        "id": 32,
+        "industry": "Technology",
+        "name": "Lei Jun",
+        "networth": "$43.5 B",
+        "rank": 32,
+        "source": "Smartphones"
+    },
+    {
+        "age": 85,
+        "country/territory": "United States",
+        "id": 33,
+        "industry": "Food & Beverage",
+        "name": "Jacqueline Mars",
+        "networth": "$42.6 B",
+        "rank": 33,
+        "source": "Candy, pet food"
+    },    
+    {
+        "age": 89,
+        "country/territory": "United States",
+        "id": 34,
+        "industry": "Food & Beverage",
+        "name": "John Mars",
+        "networth": "$42.6 B",
+        "rank": 33,
+        "source": "Candy, pet food"
+    },
+    {
+        "age": 56,
+        "country/territory": "United States",
+        "id": 35,
+        "industry": "Finance & Investments",
+        "name": "Ken Griffin",
+        "networth": "$42.3 B",
+        "rank": 35,
+        "source": "Hedge funds"
+    },
+    {
+        "age": 45,
+        "country/territory": "China",
+        "id": 36,
+        "industry": "Technology",
+        "name": "Colin Zheng Huang",
+        "networth": "$42.3 B",
+        "rank": 35,
+        "source": "E-commerce"
+    },
+    {
+        "age": 85,
+        "country/territory": "Germany",
+        "id": 37,
+        "industry": "Fashion & Retail",
+        "name": "Dieter Schwarz",
+        "networth": "$41 B",
+        "rank": 37,
+        "source": "Retail"
+    },
+     {
+        "age": 32,
+        "country/territory": "Austria",
+        "id": 38,
+        "industry": "Food & Beverage",
+        "name": "Mark Mateschitz",
+        "networth": "$40.6 B",
+        "rank": 38,
+        "source": "Red Bull"
+    },
+    {
+        "age": 87,
+        "country/territory": "Germany",
+        "id": 39,
+        "industry": "Logistics",
+        "name": "Klaus-Michael Kuehne",
+        "networth": "$39.6 B",
+        "rank": 39,
+        "source": "Shipping"
+    },
+    {
+        "age": 96,
+        "country/territory": "Hong Kong",
+        "id": 40,
+        "industry": "Diversified",
+        "name": "Li Ka-shing",
+        "networth": "$38.9 B",
+        "rank": 40,
+        "source": "Diversified"
+    },
+    {
+        "age": 60,
+        "country/territory": "Italy",
+        "id": 41,
+        "industry": "Food & Beverage",
+        "name": "Giovanni Ferrero",
+        "networth": "$38.2 B",
+        "rank": 41,
+        "source": "Nutella, chocolates"
+    },
+    {
+        "age": 38,
+        "country/territory": "United States",
+        "id": 42,
+        "industry": "Fashion & Retail",
+        "name": "Lukas Walton",
+        "networth": "$37.9 B",
+        "rank": 42,
+        "source": "Walmart"
+    },
+    {
+        "age": 56,
+        "country/territory": "Hong Kong",
+        "id": 43,
+        "industry": "Automotive",
+        "name": "Robin Zeng",
+        "networth": "$37.9 B",
+        "rank": 42,
+        "source": "Batteries"
+    },
+    {
+        "age": 84,
+        "country/territory": "Switzerland",
+        "id": 44,
+        "industry": "Logistics",
+        "name": "Gianluigi Aponte",
+        "networth": "$37.7 B",
+        "rank": 44,
+        "source": "Shipping"
+    },
+    {
+        "age": 80,
+        "country/territory": "Switzerland",
+        "id": 45,
+        "industry": "Logistics",
+        "name": "Rafaela Aponte-Diamant",
+        "networth": "$37.7 B",
+        "rank": 44,
+        "source": "Shipping"
+    },
+    {
+        "age": 76,
+        "country/territory": "France",
+        "id": 46,
+        "industry": "Fashion & Retail",
+        "name": "Alain Wertheimer",
+        "networth": "$36 B",
+        "rank": 46,
+        "source": "Chanel"
+    },
+    {
+        "age": 74,
+        "country/territory": "France",
+        "id": 47,
+        "industry": "Fashion & Retail",
+        "name": "Gerard Wertheimer",
+        "networth": "$36 B",
+        "rank": 46,
+        "source": "Chanel"
+    },
+    {
+        "age": 75,
+        "country/territory": "India",
+        "id": 48,
+        "industry": "Metals & Mining",
+        "name": "Savitri Jindal & family",
+        "networth": "$35.5 B",
+        "rank": 48,
+        "source": "Steel"
+    },
+    {
+        "age": 87,
+        "country/territory": "United States",
+        "id": 49,
+        "industry": "Fashion & Retail",
+        "name": "Phil Knight & family",
+        "networth": "$35.4 B",
+        "rank": 49,
+        "source": "Nike"
+    },
+    {
+        "age": 89,
+        "country/territory": "Germany",
+        "id": 50,
+        "industry": "Manufacturing",
+        "name": "Reinhold Wuerth & family",
+        "networth": "$35.1 B",
+        "rank": 50,
+        "source": "Fasteners"
+    },
+    {
+        "age": 79,
+        "country/territory": "India",
+        "id": 51,
+        "industry": "Technology",
+        "name": "Shiv Nadar",
+        "networth": "$34.5 B",
+        "rank": 51,
+        "source": "Software services"
+    },
+    {
+        "age": 43,
+        "country/territory": "Brazil",
+        "id": 52,
+        "industry": "Technology",
+        "name": "Eduardo Saverin",
+        "networth": "$34.5 B",
+        "rank": 51,
+        "source": "Facebook"
+    },
+    {
+        "age": 54,
+        "country/territory": "Italy",
+        "id": 53,
+        "industry": "Finance & Investments",
+        "name": "Andrea Pignataro",
+        "networth": "$34.2 B",
+        "rank": 53,
+        "source": "Financial software"
+    },
+    {
+        "age": 53,
+        "country/territory": "China",
+        "id": 54,
+        "industry": "Technology",
+        "name": "William Ding",
+        "networth": "$33.3 B",
+        "rank": 54,
+        "source": "Online games"
+    },    
+    {
+        "age": 63,
+        "country/territory": "United States",
+        "id": 55,
+        "industry": "Finance & Investments",
+        "name": "Abigail Johnson",
+        "networth": "$32.7 B",
+        "rank": 55,
+        "source": "Fidelity"
+    },    
+    {
+        "age": 79,
+        "country/territory": "United States",
+        "id": 56,
+        "industry": "Gambling & Casinos",
+        "name": "Miriam Adelson & family",
+        "networth": "$32.1 B",
+        "rank": 56,
+        "source": "Casinos"
+    },
+    {
+        "age": 74,
+        "country/territory": "United States",
+        "id": 57,
+        "industry": "Finance & Investments",
+        "name": "Marilyn Simons & family",
+        "networth": "$31 B",
+        "rank": 57,
+        "source": "Hedge funds"
+    },
+    {
+        "age": 60,
+        "country/territory": "United States",
+        "id": 58,
+        "industry": "Technology",
+        "name": "Melinda French Gates",
+        "networth": "$30.4 B",
+        "rank": 58,
+        "source": "Microsoft, investments"
+    },
+    {
+        "age": 67,
+        "country/territory": "United States",
+        "id": 59,
+        "industry": "Diversified",
+        "name": "Len Blavatnik",
+        "networth": "$29.9 B",
+        "rank": 59,
+        "source": "Music, chemicals"
+    },
+     {
+        "age": 67,
+        "country/territory": "Japan",
+        "id": 60,
+        "industry": "Telecom",
+        "name": "Masayoshi Son",
+        "networth": "$29.4 B",
+        "rank": 60,
+        "source": "Internet, telecom"
+    },
+    {
+        "age": 71,
+        "country/territory": "Australia",
+        "id": 61,
+        "industry": "Metals & Mining",
+        "name": "Gina Rinehart",
+        "networth": "$29.3 B",
+        "rank": 61,
+        "source": "Mining"
+    },
+    {
+        "age": 74,
+        "country/territory": "Russia",
+        "id": 62,
+        "industry": "Energy",
+        "name": "Vagit Alekperov",
+        "networth": "$28.7 B",
+        "rank": 62,
+        "source": "Oil"
+    },
+    {
+        "age": 60,
+        "country/territory": "China",
+        "id": 63,
+        "industry": "Technology",
+        "name": "Jack Ma",
+        "networth": "$28.6 B",
+        "rank": 63,
+        "source": "E-commerce"
+    },
+    {
+        "age": 59,
+        "country/territory": "Russia",
+        "id": 64,
+        "industry": "Metals & Mining",
+        "name": "Alexey Mordashov & family",
+        "networth": "$28.6 B",
+        "rank": 63,
+        "source": "Steel, investments"
+    },
+    {
+        "age": 71,
+        "country/territory": "Mexico",
+        "id": 65,
+        "industry": "Metals & Mining",
+        "name": "Germán Larrea Mota Velasco & family",
+        "networth": "$28.6 B",
+        "rank": 63,
+        "source": "Mining"
+    },
+    {
+        "age": 69,
+        "country/territory": "Russia",
+        "id": 66,
+        "industry": "Energy",
+        "name": "Leonid Mikhelson & family",
+        "networth": "$28.4 B",
+        "rank": 66,
+        "source": "Gas, chemicals"
+    },
+    {
+        "age": 82,
+        "country/territory": "United States",
+        "id": 67,
+        "industry": "Diversified",
+        "name": "Elaine Marshall & family",
+        "networth": "$28.3 B",
+        "rank": 67,
+        "source": "Koch Industries"
+    },
+    {
+        "age": 74,
+        "country/territory": "Israel",
+        "id": 68,
+        "industry": "Diversified",
+        "name": "Eyal Ofer",
+        "networth": "$28.2 B",
+        "rank": 68,
+        "source": "Real estate, shipping"
+    },
+    {
+        "age": 54,
+        "country/territory": "United States",
+        "id": 69,
+        "industry": "Technology",
+        "name": "MacKenzie Scott",
+        "networth": "$28.2 B",
+        "rank": 68,
+        "source": "Amazon"
+    },
+    {
+        "age": 82,
+        "country/territory": "Chile",
+        "id": 70,
+        "industry": "Metals & Mining",
+        "name": "Iris Fontbona & family",
+        "networth": "$28.1 B",
+        "rank": 70,
+        "source": "Mining"
+    },
+    {
+        "age": 63,
+        "country/territory": "United States",
+        "id": 71,
+        "industry": "Finance & Investments",
+        "name": "Daniel Gilbert",
+        "networth": "$27.8 B",
+        "rank": 71,
+        "source": "Quicken Loans"
+    },
+    {
+        "age": 76,
+        "country/territory": "Indonesia",
+        "id": 72,
+        "industry": "Energy",
+        "name": "Low Tuck Kwong",
+        "networth": "$27.3 B",
+        "rank": 72,
+        "source": "Coal"
+    },
+    {
+        "age": 86,
+        "country/territory": "United States",
+        "id": 73,
+        "industry": "Healthcare",
+        "name": "Thomas Frist, Jr. & family",
+        "networth": "$27 B",
+        "rank": 73,
+        "source": "Hospitals"
+    },
+    {
+        "age": 82,
+        "country/territory": "China",
+        "id": 74,
+        "industry": "Manufacturing",
+        "name": "He Xiangjian & family",
+        "networth": "$27 B",
+        "rank": 73,
+        "source": "Home appliances"
+    },
+    {
+        "age": 68,
+        "country/territory": "Russia",
+        "id": 75,
+        "industry": "Metals & Mining",
+        "name": "Vladimir Lisin",
+        "networth": "$26.5 B",
+        "rank": 75,
+        "source": "Steel, transport"
+    },
+    {
+        "age": 58,
+        "country/territory": "China",
+        "id": 76,
+        "industry": "Automotive",
+        "name": "Wang Chuanfu",
+        "networth": "$26.4 B",
+        "rank": 76,
+        "source": "Batteries, automobiles"
+    },
+    {
+        "age": 50,
+        "country/territory": "United States",
+        "id": 77,
+        "industry": "Energy",
+        "name": "Lyndal Stephens Greth & family",
+        "networth": "$25.8 B",
+        "rank": 77,
+        "source": "Oil & gas"
+    },
+    {
+        "age": 62,
+        "country/territory": "Germany",
+        "id": 78,
+        "industry": "Automotive",
+        "name": "Susanne Klatten",
+        "networth": "$25.2 B",
+        "rank": 78,
+        "source": "BMW, pharmaceuticals"
+    },
+    {
+        "age": 69,
+        "country/territory": "India",
+        "id": 79,
+        "industry": "Healthcare",
+        "name": "Dilip Shanghvi",
+        "networth": "$24.9 B",
+        "rank": 79,
+        "source": "Pharmaceuticals"
+    },
+    {
+        "age": 54,
+        "country/territory": "France",
+        "id": 80,
+        "industry": "Food & Beverage",
+        "name": "Emmanuel Besnier",
+        "networth": "$24.5 B",
+        "rank": 80,
+        "source": "Cheese"
+    },
+    {
+        "age": 64,
+        "country/territory": "Russia",
+        "id": 81,
+        "industry": "Metals & Mining",
+        "name": "Vladimir Potanin",
+        "networth": "$24.2 B",
+        "rank": 81,
+        "source": "Metals"
+    },
+    {
+        "age": 69,
+        "country/territory": "United States",
+        "id": 82,
+        "industry": "Technology",
+        "name": "Eric Schmidt",
+        "networth": "$24 B",
+        "rank": 82,
+        "source": "Google"
+    },
+    {
+        "age": 67,
+        "country/territory": "Nigeria",
+        "id": 83,
+        "industry": "Manufacturing",
+        "name": "Aliko Dangote",
+        "networth": "$23.9 B",
+        "rank": 83,
+        "source": "Cement, sugar"
+    },
+    {
+        "age": 58,
+        "country/territory": "Germany",
+        "id": 84,
+        "industry": "Automotive",
+        "name": "Stefan Quandt",
+        "networth": "$23.8 B",
+        "rank": 84,
+        "source": "BMW"
+    },
+    {
+        "age": 72,
+        "country/territory": "Russia",
+        "id": 85,
+        "industry": "Energy",
+        "name": "Gennady Timchenko",
+        "networth": "$23.2 B",
+        "rank": 85,
+        "source": "Oil, gas"
+    },
+    {
+        "age": 83,
+        "country/territory": "India",
+        "id": 86,
+        "industry": "Healthcare",
+        "name": "Cyrus Poonawalla",
+        "networth": "$23.1 B",
+        "rank": 86,
+        "source": "Vaccines"
+    },
+    {
+        "age": 94,
+        "country/territory": "United States",
+        "id": 87,
+        "industry": "Media & Entertainment",
+        "name": "Rupert Murdoch & family",
+        "networth": "$23 B",
+        "rank": 87,
+        "source": "Newspapers, TV network"
+    },
+    {
+        "age": 85,
+        "country/territory": "United States",
+        "id": 88,
+        "industry": "Fashion & Retail",
+        "name": "John Menard, Jr.",
+        "networth": "$22.9 B",
+        "rank": 88,
+        "source": "Home improvement stores"
+    },
+    {
+        "age": 69,
+        "country/territory": "Israel",
+        "id": 89,
+        "industry": "Diversified",
+        "name": "Idan Ofer",
+        "networth": "$22.5 B",
+        "rank": 89,
+        "source": "Shipping"
+    },
+    {
+        "age": 60,
+        "country/territory": "Italy",
+        "id": 90,
+        "industry": "Finance & Investments",
+        "name": "Giancarlo Devasini",
+        "networth": "$22.4 B",
+        "rank": 90,
+        "source": "Cryptocurrency"
+    },
+    {
+        "age": 84,
+        "country/territory": "Indonesia",
+        "id": 91,
+        "industry": "Finance & Investments",
+        "name": "R. Budi Hartono",
+        "networth": "$22.4 B",
+        "rank": 90,
+        "source": "Banking, tobacco"
+    },
+    {
+        "age": 78,
+        "country/territory": "United States",
+        "id": 92,
+        "industry": "Construction & Engineering",
+        "name": "Diane Hendricks",
+        "networth": "$21.9 B",
+        "rank": 92,
+        "source": "Building supplies"
+    },
+    {
+        "age": 88,
+        "country/territory": "France",
+        "id": 93,
+        "industry": "Fashion & Retail",
+        "name": "François Pinault & family",
+        "networth": "$21.7 B",
+        "rank": 93,
+        "source": "Luxury goods"
+    },
+    {
+        "age": 85,
+        "country/territory": "Indonesia",
+        "id": 94,
+        "industry": "Manufacturing",
+        "name": "Michael Hartono",
+        "networth": "$21.5 B",
+        "rank": 94,
+        "source": "Banking, tobacco"
+    },
+    {
+        "age": 68,
+        "country/territory": "United States",
+        "id": 95,
+        "industry": "Finance & Investments",
+        "name": "Steve Cohen",
+        "networth": "$21.3 B",
+        "rank": 95,
+        "source": "Hedge funds"
+    },
+    {
+        "age": 67,
+        "country/territory": "United States",
+        "id": 96,
+        "industry": "Finance & Investments",
+        "name": "David Tepper",
+        "networth": "$21.3 B",
+        "rank": 96,
+        "source": "Hedge funds"
+    },    
+    {
+        "age": 57,
+        "country/territory": "India",
+        "id": 97,
+        "industry": "Diversified",
+        "name": "Kumar Birla",
+        "networth": "$20.9 B",
+        "rank": 97,
+        "source": "Commodities"
+    },
+    {
+        "age": 72,
+        "country/territory": "Brazil",
+        "id": 98,
+        "industry": "Finance & Investments",
+        "name": "Vicky Safra & family",
+        "networth": "$20.7 B",
+        "rank": 98,
+        "source": "Banking"
+    },
+    {
+        "age": 62,
+        "country/territory": "China",
+        "id": 99,
+        "industry": "Automotive",
+        "name": "Lu Xiangyang",
+        "networth": "$20 B",
+        "rank": 99,
+        "source": "Automobiles, batteries"
+    },
+    {
+        "age": 80,
+        "country/territory": "Indonesia",
+        "id": 100,
+        "industry": "Diversified",
+        "name": "Prajogo Pangestu",
+        "networth": "$20 B",
+        "rank": 99,
+        "source": "Petrochemicals, energy"
+    }
+]
